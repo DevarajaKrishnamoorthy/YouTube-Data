@@ -1,6 +1,5 @@
 Topic : YOUTUBE DATA ANALYSIS USING FLASK FRAMEWORK
 
-
 WEB APPLICATION :
 	
 	* Compare the channel and analysis the channels data .
@@ -17,7 +16,5 @@ RUNNING METHODOLOGY :
 
 
 Thanks For Watching............
-
 By 
-
-1Croreprojects............
+Devaraja K
