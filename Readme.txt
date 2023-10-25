@@ -3,7 +3,7 @@ Topic : YOUTUBE DATA ANALYSIS USING FLASK FRAMEWORK
 WEB APPLICATION :
 	
 	* Compare the channel and analysis the channels data .
-	*search the channel and analysis the comment .
+	* search the channel and analysis the comment .
 	* Youtube API Key.
 
 RUNNING METHODOLOGY :
